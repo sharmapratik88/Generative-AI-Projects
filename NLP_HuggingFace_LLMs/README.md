@@ -1,6 +1,6 @@
-# LearningAI - NLP, Hugging Face and LLMs models
+# LearningAI - NLP, Hugging Face, and LLMs models
 
-In this section, you'll discover projects that leverage a variety of techniques in Natural Language Processing (NLP) and Generative AI.
+In this section, you'll discover projects that leverage various techniques in Natural Language Processing (NLP) and Generative AI.
 
 ### Projects:
 
@@ -11,12 +11,12 @@ This project features a Python script for training a text classification model t
 Key Features:
 
 * Leverages the Hugging Face Transformers library for model training and evaluation.
-* Uses the Resume Dataset, containing over 2400 categorized resumes, for training.
+* Uses the Resume Dataset for training, containing over 2400 categorized resumes.
 * Employs distilbert-base-uncased, a pre-trained DistilBert model, for fine-tuning.
 * Implements data preprocessing steps, including dataset splitting and tokenization.
 * Fine-tunes the model with custom training arguments to optimize performance for resume classification.
 * Saves the trained model and tokenizer for future use or deployment.
-* Evaluates the model's performance (accuracy and F1-score) and demonstrates classification of new resumes from test dataset.
+* Evaluates the model's performance (accuracy and F1-score) and demonstrates classification of new resumes from the test dataset.
 
 This script is ideal for developers and researchers interested in applying text classification to real-world recruitment processes, offering a practical example of using state-of-the-art NLP tools for automating tasks.
 
@@ -27,12 +27,12 @@ This project features a Jupyter notebook that fine-tunes the Pegasus model for t
 Key Features:
 
 * Utilizes the Hugging Face Transformers library for model training and evaluation. 
-* Employs the SAMSum dataset, which consists of dialogues and their corresponding summaries. 
+* Employs the SAMSum dataset, which consists of dialogues and corresponding summaries. 
 * Implements a tokenizer to convert text data into a format suitable for the model. 
 * Fine-tunes the Pegasus model with custom training arguments. 
 * Saves the trained model and tokenizer for future use. 
 * Provides a summarization pipeline to generate summaries from dialogues. 
-* Evaluates the model's performance using ROUGE scores and displays the results.
+* Evaluate the model's performance using ROUGE scores and display the results.
 
 This is ideal for those looking to understand and implement text summarization models using the HuggingFace transformers.
 
@@ -48,6 +48,6 @@ Key Features:
 * Defines training parameters and compiles the model with an Adam optimizer and weight decay.
 * Trains the model with specified batch size, learning rate, and epochs.
 * Saves the trained model for future use or deployment.
-* Provides a sample inference to demonstrate translation of English text to Hindi.
+* Provides a sample inference to demonstrate the translation of English text to Hindi.
 
 This is suitable for developers and researchers interested in machine translation and natural language processing, providing a practical example of training and using a translation model with HuggingFace transformers.
