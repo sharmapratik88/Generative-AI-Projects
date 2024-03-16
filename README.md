@@ -25,11 +25,11 @@ In this section, you'll discover projects that leverage various techniques in Na
 
 ### Projects:
 
-1. **[Text Classification Using Transformers](https://nbviewer.org/github/sharmapratik88/LearningAI/blob/main/NLP_HuggingFace_LLMs/HF_Text_Classification.ipynb)** - A project demonstrating how to perform text classification using Hugging Face's Transformers library.
+1. **[Machine Learning Using Transformers](https://nbviewer.org/github/sharmapratik88/LearningAI/blob/main/NLP_HuggingFace_LLMs/01_HF_Machine_Translation.ipynb)** - A demonstration of machine translation using Hugging Face's Transformers library.
 
-2. **[Text Summarization Using Transformers](https://nbviewer.org/github/sharmapratik88/LearningAI/blob/main/NLP_HuggingFace_LLMs/HF_Text_Summarizer.ipynb)** - This project showcases text summarization capabilities using Hugging Face's Transformers.
+2. **[Text Summarization Using Transformers](https://nbviewer.org/github/sharmapratik88/LearningAI/blob/main/NLP_HuggingFace_LLMs/02_HF_Text_Summarizer.ipynb)** - This project showcases text summarization capabilities using Hugging Face's Transformers. 
 
-3. **[Machine Learning Using Transformers](https://nbviewer.org/github/sharmapratik88/LearningAI/blob/main/NLP_HuggingFace_LLMs/HF_Machine_Translation.ipynb)** - A demonstration of machine translation using Hugging Face's Transformers library.
+3. **[Text Classification Using Transformers](https://nbviewer.org/github/sharmapratik88/LearningAI/blob/main/NLP_HuggingFace_LLMs/03_HF_Text_Classification.ipynb)** - A project demonstrating how to perform text classification using Hugging Face's Transformers library.
 
 ## Getting Started
 
