@@ -1,0 +1,10 @@
+pypdf
+rank_bm25
+sentence-transformers
+langchain
+langchain-community
+langchain_chroma
+langchain_openai
+weaviate-client
+langchain_weaviate
+
