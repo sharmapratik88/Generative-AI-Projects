@@ -31,4 +31,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 For questions or to connect, please reach out to me:
 - **LinkedIn:** [Pratik Sharma](https://linkedin.com/in/sharmapratikd)
 
-Thank you for visiting my LearningAI repository!
+Thank you for visiting my Learning Generative AI repository!
