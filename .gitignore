@@ -2,3 +2,4 @@
 __pycache__/
 NLP_HuggingFace_LLMs/models
 /NLP_HuggingFace_LLMs/models/HF_Text_Summarizer/
+./models/
