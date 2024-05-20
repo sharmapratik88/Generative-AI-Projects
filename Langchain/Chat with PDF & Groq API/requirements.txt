@@ -1,0 +1,8 @@
+pypdf
+groq
+ollama
+streamlit
+langchain
+langchain-community
+langchain_chroma
+langchain_groq

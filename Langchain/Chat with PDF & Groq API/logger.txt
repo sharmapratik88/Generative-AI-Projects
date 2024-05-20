@@ -1,0 +1,9 @@
+20-May-24 00:07:29 - --------------------------------
+20-May-24 00:07:29 - Reading the PDF data!
+20-May-24 00:07:29 - The total pages loaded as content: 19
+20-May-24 00:07:29 - Initiating the Chroma DB vectorization step
+20-May-24 00:07:29 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+20-May-24 00:08:23 - Initiating the GROQ LLM with mixtral-8x7b-32768
+20-May-24 00:08:24 - Question to the LLM: What is Hybrid Search?
+20-May-24 00:08:27 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+20-May-24 00:08:27 - Answer from the LLM: Hybrid search is a technique that combines the strengths of different search methods to improve the accuracy and efficiency of information retrieval. In the context of the provided information, hybrid search refers to the use of both keyword-based search and semantic search techniques, such as Dense Vector indexes and Sparse Encoder indexes, in conjunction with hybrid query strategies. This approach aims to achieve better retrieval results and set new benchmarks for Information Retrieval (IR) datasets. The 'Blended RAG' method, as mentioned in the abstract, is an example of such a hybrid search technique that improves Retrieval-Augmented Generation (RAG) accuracy.
