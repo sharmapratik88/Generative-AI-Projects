@@ -10,7 +10,7 @@ This project is designed to create a Question-Answering (QA) system using a PDF 
 - Initializes the ChatGroq language model from Groq.
 - Sets up a RetrievalQA chain to answer queries based on the document embeddings and the language model.
 
-### Setting up the virtual environment
+## Setting up the virtual environment
 1. Create virtual environment: ```python -m venv venv```
 2. Activate the virtual environment: ```venv\Scripts\activate``` on Windows or ```source venv/bin/activate``` on MacOS.
 3. Install the dependencies: ```pip installx -r requirements.txt```
@@ -19,5 +19,5 @@ This project is designed to create a Question-Answering (QA) system using a PDF 
 6. Adjust the configuration constants as needed, such as chunk_size, chunk_overlap, return_k, model_name, and embedding_model.
 7. Run the script: ```chatwithPDF_groq.py```
 
-### Logging
+## Logging
 The code logs key steps and outputs to a file named logger.txt, which can be used for monitoring the processing steps and debugging if necessary.
