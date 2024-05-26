@@ -13,7 +13,7 @@ This project is designed to create a Question-Answering (QA) system using a PDF 
 ## Setting up the virtual environment
 1. Create virtual environment: ```python -m venv venv```
 2. Activate the virtual environment: ```venv\Scripts\activate``` on Windows or ```source venv/bin/activate``` on MacOS.
-3. Install the dependencies: ```pip installx -r requirements.txt```
+3. Install the dependencies: ```pip install -r requirements.txt```
 4. Create a .env file and add ```GROQ_API_KEY="your GROQ API key"```
 5. Place your PDF file in the pdfs directory and update the pdf_file variable in the script with the correct file path.
 6. Adjust the configuration constants as needed, such as chunk_size, chunk_overlap, return_k, model_name, and embedding_model.
