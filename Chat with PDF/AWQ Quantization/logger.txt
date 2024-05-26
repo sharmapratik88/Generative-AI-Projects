@@ -1,0 +1,18 @@
+26-May-24 08:46:56 - ---------------------------
+26-May-24 08:46:56 - Data Ingestion
+26-May-24 08:46:56 - Loading raw document: pdfs/Llama3 paper.pdf
+26-May-24 08:46:57 - Splitting text .....
+26-May-24 08:46:57 - Length of the PDF after chunking: 8
+26-May-24 08:46:57 - Loading raw document: pdfs/2404.07220v1.pdf
+26-May-24 08:46:57 - Splitting text .....
+26-May-24 08:46:57 - Length of the PDF after chunking: 28
+26-May-24 08:46:57 - Length of all documents after chunking: 36
+26-May-24 08:46:58 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+26-May-24 08:46:59 - Use pytorch device_name: cuda
+26-May-24 08:47:00 - Initiating the Chroma DB vectorization step
+26-May-24 08:47:00 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+26-May-24 08:47:00 - Loading mistralai/Mistral-7B-Instruct-v0.2 model from HuggingFace.
+26-May-24 08:56:56 - Quantized model and tokenizers saved to the path specified.
+26-May-24 08:58:53 - Question to the LLM: What is Hybrid Search?
+26-May-24 08:58:54 - Answer from the LLM: 
+Hybrid Search is a search methodology used for Retrieval-as-a-Service (RAG) systems that combines multiple search techniques to improve overall accuracy. In this study, the authors explored keyword-based similarity search, dense vector-based, and semantic-based sparse encoder-based search, and integrated these techniques to formulate hybrid queries. The goal is to elevate search capabilities and capture nuanced relationships between terms, thereby providing a more authentic representation of user intent and document relevance. The authors used the Sparse Encoder Model-based index with sparse encoder query + match query and combinations of multi match queries for their experiments.

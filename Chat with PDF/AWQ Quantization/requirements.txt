@@ -1,0 +1,12 @@
+pypdf
+autoawq
+autoawq-kernels
+langchain
+langchain-community
+langchain_chroma
+torch
+vllm
+sentence-transformers
+accelerate
+bitsandbytes
+ipykernel

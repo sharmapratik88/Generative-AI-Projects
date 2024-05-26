@@ -22,7 +22,7 @@ logging.basicConfig(filename='logger.txt',
 # DEFINE CONSTANTS
 ############################
 # Constants for the PDF file, text splitting, and model configurations
-pdf_file = './pdfs/2404.07220v1.pdf'  # Path to the PDF file to be processed
+pdf_file = 'pdfs/2404.07220v1.pdf'  # Path to the PDF file to be processed
 chunk_size = 2500  # Size of text chunks for splitting the document
 chunk_overlap = 100  # Number of characters to overlap between chunks
 return_k = 3  # Number of top results to return from searches
