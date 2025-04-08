@@ -13,7 +13,7 @@ This project demonstrates a comprehensive pipeline for processing PDF documents,
 - **Model Quantization**: Implements AWQ quantization on the Mistral Instruct v0.2 model using AutoAWQForCausalLM and AutoTokenizer.
 - **Retrieval-Based QA System**: Sets up a retrieval-based QA system using vLLM and Langchain's RetrievalQA.
 
-- #### [Notebook Link](https://github.com/sharmapratik88/Learning-Generative-AI/blob/main/Chat%20with%20PDF/AWQ%20Quantization/Chat%20with%20PDF%20AWQ%20Quantization.ipynb)
+- #### [Notebook Link](https://nbviewer.org/github/sharmapratik88/Generative-AI-Projects/blob/main/Chat_with_PDF/AWQ_Quantization/Chat_with_PDF_AWQ_Quantization.ipynb)
 
 ## Project 2: PDF Q&A Retrieval with LangChain & GROQ API
 ### Overview
@@ -25,4 +25,4 @@ This project is designed to create a QA system using a PDF document as the knowl
 - **Language Model Initialization**: Initializes the ChatGroq language model from Groq.
 - **Retrieval-Based QA System**: Sets up a RetrievalQA chain to answer queries based on the document embeddings and the language model.
 
-- #### [Script Link](https://github.com/sharmapratik88/Learning-Generative-AI/blob/main/Chat%20with%20PDF/GROQ%20API/chat_with_pdf_groq.py)
+- #### [Script Link](https://github.com/sharmapratik88/Generative-AI-Projects/blob/main/Chat_with_PDF/GROQ_API/chat_with_pdf_groq.py)
