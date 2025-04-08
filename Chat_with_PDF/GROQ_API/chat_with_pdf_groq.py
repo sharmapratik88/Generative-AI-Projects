@@ -64,7 +64,7 @@ llm = ChatGroq(groq_api_key=os.environ['GROQ_API_KEY'], model_name=model_name, t
 qa_with_sources = RetrievalQA.from_chain_type(llm=llm, chain_type="stuff", retriever=retriever)
 
 # Define the query to be asked to the LLM
-query = 'What is Hybrid Search?'  # The question to be answered by the LLM
+query = 'What is Hybrid_Search?'  # The question to be answered by the LLM
 logging.info(f'Question to the LLM: {query}')
 response = qa_with_sources(query)['result']  # Get the response from the retrieval QA chain
 logging.info(f'Answer from the LLM: {response}')  # Log the answer received from the LLM

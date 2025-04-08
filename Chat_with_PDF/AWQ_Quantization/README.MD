@@ -22,7 +22,7 @@ This project demonstrates a comprehensive pipeline for processing PDF documents,
 ### Clone the repository
 ```bash
 git clone https://github.com/sharmapratik88/Learning-Generative-AI.git
-cd 'Learning-Generative-AI/Chat with PDF/AWQ Quantization'
+cd 'Learning-Generative-AI/Chat_with_PDF/AWQ_Quantization'
 ```
 
 ### Setting up the virtual environment

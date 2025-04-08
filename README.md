@@ -1,6 +1,6 @@
-# Learning Generative AI Repository
+# Generative AI Projects Repository
 
-Welcome to the Learning Generative AI GitHub repository! 
+Welcome to the Generative AI Projects GitHub repository! 
 This repository documents my journey through the fascinating world of generative AI, including code, resources, and learnings.
 
 | Sr No | Notebook                                                                                                                                                                                                                             | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

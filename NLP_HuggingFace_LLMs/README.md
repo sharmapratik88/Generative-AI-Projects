@@ -1,4 +1,4 @@
-# LearningAI - NLP, Hugging Face, and LLMs models
+# Generative AI Projects - NLP, Hugging Face, and LLMs models
 
 In this section, you'll discover projects that leverage various techniques in Natural Language Processing (NLP) and Generative AI.
 
